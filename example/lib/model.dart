@@ -1,4 +1,4 @@
-import 'package:example/src/annotations.dart';
+import 'src/annotations.dart';
 
 part 'model.g.dart';
 
